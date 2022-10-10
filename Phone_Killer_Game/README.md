@@ -1,0 +1,1 @@
+# I created a game based on Battle royale. Each player has to kill as many people as possible. To do this, he must be within 5 meters of the person and shake his phone. You have to be as fast as possible because each killer is also the target of another killer.
